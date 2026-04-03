@@ -58,6 +58,76 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "python-text-processing",
+      "title": "Python Text Processing",
+      "description": "Working with strings, file I/O, and text manipulation",
+      "path": "assignments/python-text-processing",
+      "dueDate": "2026-04-10",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "rest-apis-fastapi",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Learn to build RESTful APIs using FastAPI framework",
+      "path": "assignments/rest-apis-fastapi",
+      "dueDate": "2026-04-10",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "data-structures-python",
+      "title": "Data Structures in Python",
+      "description": "Lists, dictionaries, sets, and tuples",
+      "path": "assignments/data-structures-python",
+      "dueDate": "2026-04-10",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "python-data-visualization",
+      "title": "Python Data Visualization",
+      "description": "Create charts and interactive visualizations using matplotlib and plotly.",
+      "path": "assignments/python-data-visualization",
+      "dueDate": "2026-04-10",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "statistics-python",
+      "title": "Statistics with Python",
+      "description": "Data analysis and statistical calculations using pandas and numpy",
+      "path": "assignments/statistics-python",
+      "dueDate": "2026-04-10",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
